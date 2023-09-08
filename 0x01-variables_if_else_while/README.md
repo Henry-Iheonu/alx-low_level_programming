@@ -1,1 +1,1 @@
-# Started Conditional Statements in C today
+# Started Conditional Statements in C
