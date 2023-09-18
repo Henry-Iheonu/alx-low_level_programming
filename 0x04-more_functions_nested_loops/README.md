@@ -1,1 +1,1 @@
-# Learning C programming 0x04 ## more functions and nested loops
+# Learning my C programming 0x04 ## more functions and nested loops
