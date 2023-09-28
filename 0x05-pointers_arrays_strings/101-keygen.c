@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * keygen - a function that generates a random valid password
+ * keygen - a function that generates a random valid passwordz
  */
 
 int keygen(int password)
