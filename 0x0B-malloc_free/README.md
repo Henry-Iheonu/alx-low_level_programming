@@ -1,1 +1,1 @@
-#Mallocing free function in C programming
+#Malloc free function in C programming
